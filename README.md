@@ -64,7 +64,7 @@ weather_app/
 
 # Demo
 
-[Demo Video](./assets/demo.mov)
+[Demo Video](https://drive.google.com/file/d/1mBPUJO4Vh6GJpxjj4di9w34B2iCp0v_m/view?usp=share_link)
 
 # How to run
 
@@ -90,7 +90,7 @@ weather_app/
 
 - Use command line: flutter test integration_test/test_files
 
-- [Integration Test Video](./assets/integration_test.mov)
+- [Integration Test Video](https://drive.google.com/file/d/1mBPUJO4Vh6GJpxjj4di9w34B2iCp0v_m/view?usp=share_link)
 
 ## Generate coverage:
 - Install lcov if not exists: brew install lcov
